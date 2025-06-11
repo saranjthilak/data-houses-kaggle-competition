@@ -119,4 +119,4 @@ Key libraries:
 
 ## 📄 License
 
-Licensed under MIT © [Your Name], [Year]
+Licensed under MIT © Saran Jaya Thilak 2025
